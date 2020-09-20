@@ -10,6 +10,10 @@
 /httpRequests/
 
 # IntelliJ Metadata
-.idea
 *.iml
 
+/compiler.xml
+/jarRepositories.xml
+/misc.xml
+/modules.xml
+/vcs.xml
